@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Colonell John Lambert's speech at the Council of State, or The Lord President's report unto the Parliament, of the discourse of Colonell John Lambert before the Council.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88331</idno>
+            <idno type="STC">Wing L243</idno>
+            <idno type="STC">Thomason E1017_27</idno>
+            <idno type="STC">ESTC R208042</idno>
+            <idno type="EEBO-CITATION">99867048</idno>
+            <idno type="PROQUEST">99867048</idno>
+            <idno type="VID">119338</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88331)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119338)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Colonell John Lambert's speech at the Council of State, or The Lord President's report unto the Parliament, of the discourse of Colonell John Lambert before the Council.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Redmayne in Lovels Court in Pater-noster-Rowe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659[i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lambert, John, 1619-1683 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119338:1" rendition="simple:additions"/>
+            <p>Colonell <hi>Iohn Lambert's</hi> SPEECH At the COUNCIL of STATE, OR The Lord Preſident's Report unto the Parli<g ref="char:EOLhyphen"/>ment, of the Diſcourſe of Colonell <hi>Iohn Lambert</hi> before the Council.</p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>Iohn Redmayne</hi> in <hi>Lovels Court</hi> in <hi>Pater-noſter-Rowe</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:119338:2"/>
+            <pb n="1" facs="tcp:119338:2"/>
+            <head>
+               <hi>Colonell</hi> Iohn Lambert's <hi>Speech at the Council of State, the 5. of</hi> March 1659, <hi>before his commitment to the</hi> Tower <hi>of</hi> London; <hi>Or the Lord Preſident's Report unto the Parliament, of the Diſcourſe of Colonell</hi> Iohn Lambert, <hi>before the Coun<g ref="char:EOLhyphen"/>cil, made in Parliament</hi> 6 March 1659</head>
+            <opener>
+               <date>
+                  <hi>Tueſday,</hi> 6. March.</date>
+            </opener>
+            <p>THe Parliament doth diſpenſe with Colonell <hi>Lambert</hi>'s not appearing upon the Proclama<g ref="char:EOLhyphen"/>tion iſſued forth againſt him, and that it be referred to the Council of State, that taking ſecurity of Col. <hi>Lambert</hi> for his peaceable demeanour, he per<g ref="char:EOLhyphen"/>mitted to live quietly at his own houſe in the Countrey.</p>
+            <p>Mr. <hi>Anſley</hi> Reports from the Council of State that Monday <hi>March</hi> 5. 1959, Col. <hi>Iohn Lamber</hi> was called into the Council to give ſecurity acco<g ref="char:EOLunhyphen"/>ding
+<pb n="2" facs="tcp:119338:3"/> to the Order of Parliament, of the 1 of <hi>March</hi> inſtant; which being accordingly propounded unto him by the Lord Preſident, he ſpake to this effect.</p>
+            <p>That he did acknowledge he had the advantage of a ſight of thoſe Votes which paſſed the Houſe concerning him, and did look upon them as a very great favour and Iuſtice from the Houſe, that they would pleaſe to take notice ſo far, as to remove that inconvenience that was both upon his Perſon and his Eſtate; and ſaid he muſt needs deal freely and plainly; that he did caſt himſelf upon the Parlia<g ref="char:EOLhyphen"/>ment, &amp; now upon the Council, in hopes of a far<g ref="char:EOLhyphen"/>ther teſtimony of their favour, then upon thoſe Votes.</p>
+            <p>He ſaid, that he did not at all think it amiſſe, that there ſhould be care taken to preſerve the Peace of theſe Nations; for he had himſelf when he was in that ſtation, held it his duty to do ſo: That what ever may be ſuggeſted againſt him, he hath his own ſatisfaction within him: what ever reports may be concerning him, he conceives they do not extend toward him for as to reports, he cannot be ſafe ei<g ref="char:EOLhyphen"/>ther here or at his houſe, if all reports may be ta<g ref="char:EOLhyphen"/>ken for truth, he ſaid, that for his own part, he can hardly ſay, that ſince he came laſt to Town (and more eſpecially within four dayes ſince) that he hath not ſaid any thing, nor medled in any thing that might tend to hinder ſettlement: But on the
+<pb n="3" facs="tcp:119338:3"/> contrary, as he had opportunity to converſe with any, he contributed in his diſcourſe towards ſet<g ref="char:EOLhyphen"/>tlement, and no otherwiſe: He ſaid he did exer<g ref="char:EOLhyphen"/>ciſe plaineſſe, and hop't not to fare the worſe for it; that he had a long time contended for a due and moderate Liberty for the People of theſe Nations; and he muſt needs ſay, that he did not know how to put difference between himſelf and the good People of theſe Nations; he deſired his Caſe may be truly and fully known, before ſuch a diſtinction be made, to put a marke or Character upon him: He ſaid that Common Liberty had day after day been granted unto others, but not unto him; how<g ref="char:EOLhyphen"/>ſoever he did freely caſt himſelf upon the ingenuity of the Parliament and Council.</p>
+            <p>Having ended his diſcourſe, the Lord Preſident deſired his anſwer, as to what ſecurity he would give.</p>
+            <p>To which he replied, It was not fit for him to ar<g ref="char:EOLhyphen"/>gue, that he underſtood the Council were under command from the Parliament, and he did not yet know whether his caſe was well ſtated to the Parlia<g ref="char:EOLhyphen"/>ment, but ſhould cleerly howſoever ſubmit to what ſhould be done concerning him, That he knew not what kind of ſecurity the Council did in<g ref="char:EOLhyphen"/>tend. That giving ſecurity in this kind, was very ſtrange unto him. Hereupon he withdrew. That the Council after conſideration of what Colonell
+<pb n="4" facs="tcp:119338:4"/> 
+               <hi>Lambert</hi> had ſaid, came to this Reſolution, to pro<g ref="char:EOLhyphen"/>poſe unto him to enter into a Bond of twenty thou<g ref="char:EOLhyphen"/>ſand pound, with four good ſecurities, upon con<g ref="char:EOLhyphen"/>dition to live peaceably at his houſe at <hi>Wimbleton,</hi> and not to act any thing to the prejudice of the Go<g ref="char:EOLhyphen"/>vernment or diſturbance of the publick peace, and not to remove from <hi>Wimbleton</hi> without leave of the Parliament or Council of State, and to render himſelf upon ſummons from the Parliament or Council of State, and this Bond to continue in force till the Parliament or Council of State give further Order to the contrary. Hereupon Colonell <hi>Lam<g ref="char:EOLhyphen"/>bert</hi> was called in again, and the Reſolution of the Council made known unto him by the Lord Preſi<g ref="char:EOLhyphen"/>dent, and he deſiring leave to ſpeak a few words, ſpake to this effect. That he deſired to take the free<g ref="char:EOLhyphen"/>dome to ſay, that it was ſevere on his part, That he had met to day with an Ordinance of Parliament of Indempnity to many perſons who have had their hands in ſeverall actions of higher nature then him<g ref="char:EOLhyphen"/>ſelf had, he found them all indempnified and reſto<g ref="char:EOLhyphen"/>red to the ſame condition, which formerly they had been in, he ſaid he would not ſay that that Or<g ref="char:EOLhyphen"/>dinance did reach as to his perſon, it is not clear whether it doth ſo or on, he ſaid he was unwil<g ref="char:EOLhyphen"/>ling to give it under his hand, that he deſired not to be put into the condition with others, and though there hath been among our ſelves dif<g ref="char:EOLhyphen"/>ference
+<pb n="5" facs="tcp:119338:4"/> of judgements, waies and forms, yet as to the main point, he ſaid, he could not be taxed in the leaſt kind. That he finds himſelf there equally with the greateſt offender: that he did caſt himſelf upon the Council to diſpoſe of him as they thought fit, and then he withdrew. And the Council there<g ref="char:EOLhyphen"/>upon Reſolved to call in Colonell <hi>Lambert</hi> once more, and poſitively to demand of him whether he would give ſecurity as was lately propounded unto him, whereupon he was called in, and accor<g ref="char:EOLhyphen"/>dingly the Lord Preſident acquainted him with the Reſolution of the Council, to which he Replied, That he did believe he could not procure the ſecu<g ref="char:EOLhyphen"/>rity propoſed, That he did not hear a fault aſſigned to him, therefore he deſired leave to petition to the Houſe, adding, That if he be found an offender, he will ſubmit; if none, he beſeeches he may be conſi<g ref="char:EOLhyphen"/>dered. That he was not willing to give it under his hand that he is an offender, though he freely ſub<g ref="char:EOLhyphen"/>mits to the Parliaments pleaſure, but being un<g ref="char:EOLhyphen"/>heard, uncharged and untax't, to write it under his hand, that he is a guilty perſon, not fit to be truſted in his own Countrey without a clog and tie upon him, he knows not what to ſay to it, but he ſhall ſubmit. Being preſſed again whether he would give that ſecurity propounded, he ſaid, he believed he could not doe it, twenty thouſand pound being a ſumme that he believes he cannot get ſureties for.
+<pb n="6" facs="tcp:119338:5"/> Hereupon after he was withdrawn, it was Orde<g ref="char:EOLhyphen"/>red, That Colonell <hi>Iohn Lambert</hi> be forthwith committed to the Tower till further Order, for re<g ref="char:EOLhyphen"/>fuſing to give ſecurity according to the Order of Parliament, but in ſtead of that, ſtanding to juſtify his Innocency, That a Warrant be prepared ac<g ref="char:EOLhyphen"/>cordingly.</p>
+            <p>The Humble Petition of <hi>Iohn Lambert</hi> Major General was read.</p>
+            <p>Reſolved, That the Parliament doth approve of what the Council of State hath done in commit<g ref="char:EOLhyphen"/>ting of Colonell <hi>Iohn Lambert</hi> to the Tower.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
